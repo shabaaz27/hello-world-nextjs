@@ -1,5 +1,3 @@
-
-
 const News = (props) => {
     const {articles} =props
   return (

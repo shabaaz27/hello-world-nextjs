@@ -4,19 +4,19 @@
                 "id":1,
                 "title":"News Article !",
                 "category":"sports",
-                "descrption":"Description 1"
+                "description":"Description 1"
             },
             {
                 "id":2,
                 "title":"News Article 2",
-                "category":"Politics",
-                "descrption":"Description 2"
+                "category":"politics",
+                "description":"Description 2"
             },
             {
                 "id":3,
                 "title":"News Article !",
-                "category":"IT",
-                "descrption":"Description 3"
+                "category":"sports",
+                "description":"Description 3"
             }
         ],
     "products":[
@@ -24,19 +24,19 @@
             "id":1,
             "price":1000,
             "title":"Product 1",
-            "descrption":"Description 1"
+            "description":"Description 1"
         },
         {
             "id":2,
             "price":2000,
             "title":"Product 2",
-            "descrption":"Description 2"
+            "description":"Description 2"
         },
         {
             "id":3,
             "price":3000,
             "title":"Product 3",
-            "descrption":"Description 3"
+            "description":"Description 3"
         }
     ]
 }
